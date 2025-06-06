@@ -1,28 +1,16 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Harry Potter"
-    },
-    {
-      "id": "5cab",
-      "name": "Courtney Brekke"
-    },
-    {
-      "id": "d5b7",
-      "name": "Alma Rolfson"
-    },
-    {
-      "id": "9c43",
-      "name": "Clifford Hamill"
-    },
-    {
-      "id": "88e4",
-      "name": "Carolyn Kuhn"
-    },
-    {
       "id": "07ec",
       "name": "Ramona Cormier II"
+    },
+    {
+      "id": "822d",
+      "name": "Alex Wiza"
+    },
+    {
+      "id": "2954",
+      "name": "Mr. Emilio Cruickshank"
     }
   ],
   "albums": [],

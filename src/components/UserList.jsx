@@ -11,6 +11,7 @@ export const UserList = () => {
   const [doFetchUsers, isLoadingUsers, loadingUsersError] =
     useThunk(fetchUsers);
   const [doCreateUser, isCreatingUser, creatingUserError] = useThunk(addUser);
+
   const { data } = useSelector((state) => {
     return state.users;
   });
@@ -24,6 +25,7 @@ export const UserList = () => {
   };
 
   let content;
+
   if (isLoadingUsers) {
     content = <Skeleton times={6} className="h-10 w-full" />;
   } else if (loadingUsersError) {

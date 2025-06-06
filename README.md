@@ -1,12 +1,21 @@
-# React + Vite
+# 🧪 RTK + Axios + TailwindCSS Practice Lab
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a small experimental project built to practice **Redux Toolkit async thunks**, **Axios**, and **TailwindCSS** for styling. It also uses `json-server` for a mock REST API and `@faker-js/faker` to generate fake users on the fly.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ State management with **Redux Toolkit**
+- ✅ Asynchronous calls with **createAsyncThunk + Axios**
+- ✅ Stylish UI with **TailwindCSS**
+- ✅ Fake API using **json-server**
+- ✅ Random user generation with **Faker.js**
+- ✅ Custom components like Skeleton loaders, Buttons, Expandable Panels
 
-## Expanding the ESLint configuration
+## 🔧 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 19
+- Redux Toolkit
+- Axios
+- TailwindCSS 4
+- Faker.js
+- json-server
