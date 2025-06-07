@@ -46,11 +46,11 @@ Follow these steps to run the project locally:
 
    ```bash
    npm run start:server
-
-   # API runs on http://localhost:3005
    ```
 
 ````
+
+API runs on http://localhost:3005
 
 4. Start the development server:
 
