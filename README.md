@@ -48,14 +48,12 @@ Follow these steps to run the project locally:
    npm run start:server
    ```
 
-````
-
 API runs on http://localhost:3005
 
 4. Start the development server:
 
 ```bash
 npm run dev
-````
+```
 
 Then open http://localhost:3000 in your browser.
